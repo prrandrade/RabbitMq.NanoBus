@@ -1,0 +1,2 @@
+# RabbitMqNanoBus
+Rabbit MQ Bus
